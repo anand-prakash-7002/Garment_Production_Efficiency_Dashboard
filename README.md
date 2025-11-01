@@ -36,7 +36,8 @@ ON
 ```
 ## Result 
 
-! 
+![Garment Production Efficiency Dashboard](https://github.com/anand-prakash-7002/Garment_Production_Efficiency_Dashboard/blob/4e03db1085e7037e702a74fd0af1b2a4dfdd02b2/Screenshot%202025-11-01%20233856.png?raw=true)
+
 
 ## Tech Stack
 - PostgreSQL / DBeaver (data storage & SQL)
